@@ -1,12 +1,12 @@
 'use client'
 import styles from "./page.module.css";
-import circel from "../../../public/R-tron.png";
-import image from "../../../public/image.png";
+import circel from "../../public/R-tron.png";
+import image from "../../public/image.png";
 import Image from "next/image";
 
 export default function Home() {
   const handleClick = () => {
-      window.location.href = "/clashgg-connecting"; 
+      window.location.href = "/binomo-connecting"; 
   }
 
   return (
